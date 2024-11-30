@@ -1,7 +1,5 @@
 # Email Management Project
 
-This project is a Laravel-based application designed for sending and tracking email messages.
-
 ## Requirements
 
 - **PHP**: ^8.0
