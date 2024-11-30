@@ -21,6 +21,7 @@ npm install
 npm run build
 cp .env.example .env
 php artisan key:generate
+```
 
 ## Configuration
 
@@ -41,6 +42,7 @@ MAIL_USERNAME=your_smtp_username
 MAIL_PASSWORD=your_smtp_password
 MAIL_ENCRYPTION=tls
 MAIL_FROM_ADDRESS=your_email@example.com
+```
 
 QUEUE_CONNECTION=database
 
@@ -48,4 +50,4 @@ QUEUE_CONNECTION=database
 
 ```bash
 php artisan migrate
-
+```
